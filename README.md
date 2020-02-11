@@ -1,13 +1,15 @@
 # Dev-house
 :rocket: Dev-House
 
-## Projeto criado para estudos
+### Projeto criado para estudos
 
-<p  align="center">[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)</p>
-
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
 
 ## Tecnologias
-
 
 - ⚛️ **React Js** — A JavaScript library for building user interfaces
 - 💹 **Node Js** — A web framework for Node Js
